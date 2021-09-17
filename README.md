@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ssdv14
 - 👀 I’m interested in programmimg
 - 🌱 I’m currently learning ML,AI
-- 💞️ I’m looking to collaborate on NLP
+- 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me 19pd35@psgtech.ac.in
 
 <!---
